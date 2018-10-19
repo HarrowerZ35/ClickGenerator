@@ -1,0 +1,11 @@
+C:\Users\zokor\source\repos\Clicl Generator Test 1.0\obj\Debug\Clicl Generator Test 1.0.csprojAssemblyReference.cache
+C:\Users\zokor\source\repos\Clicl Generator Test 1.0\obj\Debug\Clicl_Generator_Test_1._0.Form1.resources
+C:\Users\zokor\source\repos\Clicl Generator Test 1.0\obj\Debug\Clicl_Generator_Test_1._0.Properties.Resources.resources
+C:\Users\zokor\source\repos\Clicl Generator Test 1.0\obj\Debug\Clicl Generator Test 1.0.csproj.GenerateResource.cache
+C:\Users\zokor\source\repos\Clicl Generator Test 1.0\obj\Debug\Clicl Generator Test 1.0.csproj.CoreCompileInputs.cache
+C:\Users\zokor\source\repos\Clicl Generator Test 1.0\bin\Debug\Clicl Generator Test 1.0.exe.config
+C:\Users\zokor\source\repos\Clicl Generator Test 1.0\bin\Debug\Clicl Generator Test 1.0.exe
+C:\Users\zokor\source\repos\Clicl Generator Test 1.0\bin\Debug\Clicl Generator Test 1.0.pdb
+C:\Users\zokor\source\repos\Clicl Generator Test 1.0\obj\Debug\Clicl Generator Test 1.0.exe
+C:\Users\zokor\source\repos\Clicl Generator Test 1.0\obj\Debug\Clicl Generator Test 1.0.pdb
+C:\Users\zokor\source\repos\Clicl Generator Test 1.0\obj\Debug\Clicl_Generator_Test_1._0.shop.resources
